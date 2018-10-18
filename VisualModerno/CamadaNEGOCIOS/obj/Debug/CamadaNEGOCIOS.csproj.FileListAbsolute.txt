@@ -1,0 +1,13 @@
+C:\Users\Marina\Desktop\NILTON\Sistemas\Clientes\Visual Moderno\VisualModerno\CamadaNEGOCIOS\bin\Debug\CamadaNEGOCIOS.dll
+C:\Users\Marina\Desktop\NILTON\Sistemas\Clientes\Visual Moderno\VisualModerno\CamadaNEGOCIOS\bin\Debug\CamadaNEGOCIOS.pdb
+C:\Users\Marina\Desktop\NILTON\Sistemas\Clientes\Visual Moderno\VisualModerno\CamadaNEGOCIOS\bin\Debug\CamadaDADOS.dll
+C:\Users\Marina\Desktop\NILTON\Sistemas\Clientes\Visual Moderno\VisualModerno\CamadaNEGOCIOS\bin\Debug\Google.Protobuf.dll
+C:\Users\Marina\Desktop\NILTON\Sistemas\Clientes\Visual Moderno\VisualModerno\CamadaNEGOCIOS\bin\Debug\MySql.Data.dll
+C:\Users\Marina\Desktop\NILTON\Sistemas\Clientes\Visual Moderno\VisualModerno\CamadaNEGOCIOS\bin\Debug\CamadaDADOS.pdb
+C:\Users\Marina\Desktop\NILTON\Sistemas\Clientes\Visual Moderno\VisualModerno\CamadaNEGOCIOS\bin\Debug\Google.Protobuf.xml
+C:\Users\Marina\Desktop\NILTON\Sistemas\Clientes\Visual Moderno\VisualModerno\CamadaNEGOCIOS\bin\Debug\MySql.Data.xml
+C:\Users\Marina\Desktop\NILTON\Sistemas\Clientes\Visual Moderno\VisualModerno\CamadaNEGOCIOS\obj\Debug\CamadaNEGOCIOS.csprojAssemblyReference.cache
+C:\Users\Marina\Desktop\NILTON\Sistemas\Clientes\Visual Moderno\VisualModerno\CamadaNEGOCIOS\obj\Debug\CamadaNEGOCIOS.csproj.CoreCompileInputs.cache
+C:\Users\Marina\Desktop\NILTON\Sistemas\Clientes\Visual Moderno\VisualModerno\CamadaNEGOCIOS\obj\Debug\CamadaNEGOCIOS.csproj.CopyComplete
+C:\Users\Marina\Desktop\NILTON\Sistemas\Clientes\Visual Moderno\VisualModerno\CamadaNEGOCIOS\obj\Debug\CamadaNEGOCIOS.dll
+C:\Users\Marina\Desktop\NILTON\Sistemas\Clientes\Visual Moderno\VisualModerno\CamadaNEGOCIOS\obj\Debug\CamadaNEGOCIOS.pdb
